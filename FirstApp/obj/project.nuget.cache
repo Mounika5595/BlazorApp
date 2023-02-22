@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gi9pDxPzaF+9PGIfzYZnfT7pnNgSr7JW3+1i16RWIFGl/NUPcTSEfRMMGTPt52SVtbophguwLiS/U2mzgVNC5Q==",
+  "dgSpecHash": "EIB8P9pDmK+RN8NPI2oKJcY/Do3xP2uGD1jRo3E4rcJsVzpWn3dLsB5i6xueOejheQuFB4jF8m5v1gzx+Myrew==",
   "success": true,
   "projectFilePath": "/workspace/BlazorApp/FirstApp/FirstApp.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/home/gitpod/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.extensions.http/7.0.0/microsoft.extensions.http.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
